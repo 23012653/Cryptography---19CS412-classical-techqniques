@@ -86,7 +86,7 @@ The program is executed successfully.
 
 ---------------------------------
 
-# EX.02 PlayFair Cipher
+# EX.02 PLAY FAIR CIPHER
 
 
 ## AIM:
