@@ -3,15 +3,20 @@
 ## AIM:
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
 
+
 ## DESIGN STEPS:
 
+
 ## Step 1:
+
 Design of Caeser Cipher algorithnm 
 
 ## Step 2:
+
 Implementation using C or pyhton code
 
 ## Step 3:
+
 1.	In Ceaser Cipher each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
 2.	For example, with a left shift of 3, D would be replaced by A, E would become B, and so on.
 3.	The encryption can also be represented using modular arithmetic by first transforming the letters into numbers, according to the   
@@ -23,6 +28,7 @@ Implementation using C or pyhton code
 
 
 ## PROGRAM:
+
 PROGRAM:
 ```
 #include <stdio.h>
@@ -68,9 +74,11 @@ int main()
 ```
 
 ## OUTPUT:
+
 ![Screenshot 2025-03-18 141932](https://github.com/user-attachments/assets/b01bd1be-87dd-402d-8061-5bf6dabdb3ce)
 
 ## RESULT:
+
 The program is executed successfully.
 
 ---------------------------------
