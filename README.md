@@ -1,4 +1,4 @@
-# EX : 02 # PLAYFAIR CIPHER
+# EX : 02  PLAYFAIR CIPHER
 Playfair Cipher using with different key values
 
 ## AIM:
