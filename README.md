@@ -1,9 +1,4 @@
-## Cryptography---19CS412-classical-techqniques
-### NAME : ANUBHARATHI SS
-### REGISTER NO : 212223040017
-### DATE : 18|03|2025
-## Caeser Cipher :
-Caeser Cipher using with different key values
+# EX.1 CAESER CIPHER
 
 ## AIM:
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
