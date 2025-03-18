@@ -1,6 +1,9 @@
 ## Cryptography---19CS412-classical-techqniques
 ## Caeser Cipher
 Caeser Cipher using with different key values
+## NAME : ANUBHARATHI SS
+## REGISTER NO : 212223040017
+## DATE : 18|03|2025
 
 ## AIM:
 
@@ -31,6 +34,7 @@ Implementation using C or pyhton code
 
 ## PROGRAM:
 PROGRAM:
+```
 #include <stdio.h>
 #include <string.h>
 int main()
@@ -71,17 +75,13 @@ int main()
 
     return 0;
 }
+```
 
 ## OUTPUT:
-OUTPUT:
-Simulating Caesar Cipher
 
-
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
 
 ## RESULT:
-The program is executed successfully
+The program is executed successfully.
 
 ---------------------------------
 
