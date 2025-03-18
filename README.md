@@ -2,12 +2,12 @@
 # Caeser Cipher
 Caeser Cipher using with different key values
 
-# AIM:
+## AIM:
 
 To encrypt and decrypt the given message by using Ceaser Cipher encryption algorithm.
 
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 
 ### Step 1:
 
@@ -29,12 +29,12 @@ Implementation using C or pyhton code
                        Dn (x)=(x - n) mod26
 
 
-# PROGRAM:
+## PROGRAM:
 PROGRAM:
 CaearCipher.
 
 
-# OUTPUT:
+## OUTPUT:
 OUTPUT:
 Simulating Caesar Cipher
 
@@ -42,7 +42,7 @@ Simulating Caesar Cipher
 Input : Anna University
 Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
 
-# RESULT:
+## RESULT:
 The program is executed successfully
 
 ---------------------------------
